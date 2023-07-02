@@ -461,6 +461,7 @@ filter: grayscale(0);
   font-size: 1rem;
   color: var(--color-white);
   margin-bottom: 1.5rem;
+  text-align: center;
 }
 .portfolios .portfolio-item .hover-items .icons {
   display: flex;
